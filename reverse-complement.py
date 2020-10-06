@@ -1,6 +1,6 @@
 '''
 NAME
-	reverse-complement.py
+	reverse-complement.py Holaa JOEEEELL!!!
     
 VERSION
     1.0
